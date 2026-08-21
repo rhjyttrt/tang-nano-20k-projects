@@ -1,0 +1,20 @@
+﻿# Gowin EDA build folders & temporary files
+impl/
+*.gprj.user
+*.gprj
+*.fs
+*.rpt
+*.log
+*.vg
+*.db
+*.temp
+
+# Simulation artifacts
+*.vvp
+*.vcd
+*.vpd
+
+# System metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
